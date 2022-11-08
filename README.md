@@ -2,8 +2,7 @@
 Check's roblox usernames are good or nope
 
 # Module's needed to run:
-pip install requests
-pip install fade
+pip install requests, fade
 
 # Goal:
 10 Stars ⭐
